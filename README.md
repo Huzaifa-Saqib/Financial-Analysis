@@ -1,7 +1,7 @@
 Financial Analysis of Systems Limited
 
-Overview
-This project involves analyzing three years of financial data for **Systems Limited**, evaluating key financial ratios, and conducting a comparative analysis with **NetSol Technologies**. Trends and insights were visualized through dashboards, and actionable, data-driven recommendations were provided to enhance financial performance and competitiveness.
+Overview:
+This project involves analyzing three years of financial data for **Systems Limited**, evaluating key financial ratios, and conducting a comparative analysis with NetSol Technologies. Trends and insights were visualized through dashboards, and actionable, data-driven recommendations were provided to enhance financial performance and competitiveness.
 
 ---
 
@@ -39,10 +39,11 @@ Key Findings
 ---
 
 Recommendations
-- Focus on cost optimization to improve profit margins  
-- Strengthen liquidity by improving receivables collection  
-- Monitor key ratios regularly using dashboards  
-- Benchmark performance periodically against competitors  
+- Optimize operational costs: Identify inefficiencies and implement cost-control measures to improve profit margins.
+- Enhance liquidity management: Improve cash flow by managing receivables and short-term liabilities effectively.
+- Regular financial monitoring: Track key financial ratios consistently for timely strategic decisions.
+- Leverage data-driven insights: Use dashboards and visualizations for informed decision-making.
+
 
 ---
 
