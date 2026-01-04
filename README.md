@@ -1,23 +1,24 @@
-# Financial Analysis of Systems Limited
+# Financial Performance Analysis of Systems Limited
 
 ## Overview
-This project involves analyzing three years of financial data for **Systems Limited**, evaluating key financial ratios, and conducting a comparative analysis with **NetSol Technologies**. Trends and insights were visualized through dashboards, and actionable, data-driven recommendations were provided to enhance financial performance and competitiveness.
+This academic project involves analyzing three years of financial data for **Systems Limited**, evaluating key financial ratios, and conducting a comparative analysis with **NetSol Technologies**. Trends and insights were visualized using data visualization tools, recommendations were provided to improve financial performance and competitiveness. This was my first semester project for the course (Fundamentals of Accounting) and I presented this project with my group members to our class and professor
 
 ---
 
 ## Objectives
-- Analyze historical financial performance of **Systems Limited**  
-- Evaluate key financial ratios (profitability, liquidity, efficiency)  
+- Analyze financial performance of **Systems Limited**  
+- Evaluate key financial ratios
 - Conduct a comparative analysis with **NetSol Technologies**  
-- Visualize insights through interactive dashboards  
-- Provide actionable, data-driven recommendations
+- Visualize insights through dashboards  
+- Provide data driven recommendations
 
 ---
 
 ## Data
 - Financial statements of **Systems Limited** (last 3 years)  
 - Key financial indicators for analysis  
-- Comparative data from **NetSol Technologies**  
+- Comparative data from **NetSol Technologies**
+- Data Source: Pakistan Stock Exchange (PSX)
 
 ---
 
@@ -25,31 +26,35 @@ This project involves analyzing three years of financial data for **Systems Limi
 1. Collected and cleaned financial data  
 2. Calculated key financial ratios (e.g., **ROA, ROE, liquidity ratios**)  
 3. Conducted comparative analysis with **NetSol Technologies**  
-4. Visualized trends, patterns, and key metrics using **Power BI dashboards**  
-5. Summarized insights and proposed actionable recommendations  
+4. Visualized trends, patterns, and key metrics using **Power BI**  
+5. Summarized insights and proposed recommendations  
 
 ---
 
 ## Key Findings
-- **Systems Limited** shows consistent revenue growth over the 3-year period  
-- Profitability and efficiency ratios indicate areas for improvement  
+- **Systems Limited** shows consistent revenue growth over the 3 year period (PKR 20.6 billion to PKR 38.5 Billion)  
+- Gross Profit ratio decreased from (33% in 2022) to (25% in 2024)
+- Net Profit ratio also dropped from (31% in 2022) to (16% in 2024)
+- ROA and ROE also saw a consistent decrease from 2022 to 2024
 - Comparative analysis highlights strengths and weaknesses relative to **NetSol**  
-- Dashboards reveal key trends in revenue, expenses, and financial metrics  
+- Power BI visuals reveal key trends in revenue, expenses, and financial metrics  
 
 ---
 
 ## Recommendations
-- **Optimize operational costs:** Identify inefficiencies and implement cost-control measures to improve profit margins  
-- **Enhance liquidity management:** Improve cash flow by managing receivables and short-term liabilities effectively  
+- **Improve Efficiency:** Streamline workflows, optimize employee utilization, and reduce wastage of resources
+- **Invest Strategically:** Consider investments in technology, training, and growth to improve efficiency, while maintaining financial stability
+- **Enhance ROA & ROE:** Use assets and equity more effectively by focusing on high-return projects and better resource allocation
+- **Control Costs:** Reduce operational and administrative expenses to improve profitability
 - **Regular financial monitoring:** Track key financial ratios consistently for timely strategic decisions  
-- **Leverage data-driven insights:** Use dashboards and visualizations for informed decision-making  
+ 
 
 ---
 
 ## Tools Used
-- **MS Excel** – data cleaning, calculations, and financial ratio analysis  
-- **Power BI** – interactive dashboards and visualizations  
-- **PowerPoint** – presentation of insights and recommendations  
+- **MS Excel** for storing data and financial ratio analysis  
+- **Power BI** for visualizations  
+- **PowerPoint** for presentation of insights and recommendations  
   
 
 
